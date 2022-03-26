@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/BadajosGabz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BadajosGabz&show_icons=true&theme=radical"/>
-  <img height="150em" width="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadajosGabz&layout=compact_icons=true&theme=radical"/>
+  <img height="150em" width="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadajosGabz&layout=compact_icons=true&theme=radical"/>
 </div>
 <div style="display: inline_block">
   <img align="center" alt="HTML5" width="40" heitgh="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
